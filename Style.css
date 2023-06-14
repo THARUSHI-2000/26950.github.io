@@ -1,0 +1,14 @@
+@charset "utf-8";
+.navbar.navbar-expand-lg.navbar-light.bg-light 
+{
+  background-color:Tomato;
+  background: radial-gradient(circle,  37%,
+   rgba(240, 21, 17, 0.8)
+    rgba(240, 86, 35, 0.8)37%
+    rgba(214, 131, 57, 0.67) 70%
+)}
+  body {
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
